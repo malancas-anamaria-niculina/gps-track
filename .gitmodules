@@ -4,3 +4,6 @@
 [submodule "mobile/mobilegpstrack"]
 	path = mobile/mobilegpstrack
 	url = https://github.com/malancas-anamaria-niculina/mobilegpstrack
+[submodule "client/gps-track-frontend"]
+	path = client/gps-track-frontend
+	url = https://github.com/malancas-anamaria-niculina/gps-track-frontend.git
