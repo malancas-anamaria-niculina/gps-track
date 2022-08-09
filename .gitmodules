@@ -1,0 +1,3 @@
+[submodule "server/gps-track-server"]
+	path = server/gps-track-server
+	url = https://github.com/malancas-anamaria-niculina/gps-track-server.git
